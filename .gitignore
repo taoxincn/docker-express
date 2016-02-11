@@ -1,5 +1,0 @@
-*.js
-myapp/bin/www
-myapp/views/layout.jade
-*.css
-myapp/views/error.jade
