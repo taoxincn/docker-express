@@ -1,4 +1,5 @@
 FROM node:5.6.0
+MAINTAINER taoxin<taoxincn@qq.com>
 
 RUN mkdir -p /usr/src/app
 WORKDIR /usr/src/app
